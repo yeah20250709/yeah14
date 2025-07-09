@@ -10,4 +10,4 @@
 
 这些平台提供的内容涵盖了各类影片，用户可以根据类型、演员等进行筛选，快速找到自己喜欢的影片。每个视频页面都包含影片的详细信息，如时长、演员及画质等。平台支持高清视频播放，并根据网络状况自动调整画质，确保观看体验流畅。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/yeah20250709/yeah14 ）</span>
